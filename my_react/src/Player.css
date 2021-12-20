@@ -1,0 +1,26 @@
+#classter {
+    margin-left: 0px auto;
+    width: 100%;
+}
+
+#classter1 {
+    float: left;
+    width: 48%;
+}
+
+#classter2 {
+    display: None;
+    float: right;
+    width: 48%;
+}
+
+#class {
+    display: None;
+    margin-left: 0px auto;
+    width: 48%;
+}
+
+#user {
+    margin: 0px auto;
+    width: 100%;
+}

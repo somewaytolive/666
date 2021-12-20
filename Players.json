@@ -1,0 +1,70 @@
+[
+  {
+    "id": 0,
+    "name": "Q",
+    "cash": "89531538185",
+    "papers": [
+      {
+        "name": "A",
+        "amount": "20"
+      },
+      {
+        "name": "B",
+        "amount": "20"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "W",
+    "cash": "89516434861",
+    "papers": [
+      {
+        "name": "C",
+        "amount": "20"
+      },
+      {
+        "name": "D",
+        "amount": "20"
+      }
+    ]
+  },
+  {
+    "name": "E",
+    "cash": "89819868252",
+    "papers": [
+      {
+        "name": "D",
+        "amount": "20"
+      },
+      {
+        "name": "E",
+        "amount": "20"
+      },
+      {
+        "name": "A",
+        "amount": "20"
+      }
+    ]
+  },
+  {
+    "name": "R",
+    "cash": "89045534155",
+    "papers": [
+      {
+        "name": "E",
+        "amount": "20"
+      },
+      {
+        "name": "A",
+        "amount": "20"
+      }
+    ]
+  },
+  {
+    "name": "admin",
+    "cash": "0",
+    "papers": [
+      ]
+  }
+]
